@@ -7,6 +7,5 @@ Android App for BeaconIR
 
 http://youtu.be/PGZpEnmASAM
 
-[![ScreenShot](http://youtu.be/PGZpEnmASAM)]http://youtu.be/PGZpEnmASAM)
 
 
